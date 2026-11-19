@@ -1,0 +1,27 @@
+# Only the two explicitly synthetic CSVs belong in version control.
+*.[cC][sS][vV]
+!/data/synthetic_demo.csv
+!/data/synthetic_training.csv
+uploads/
+local_data/
+models/
+*.joblib
+*.xlsx
+*.xls
+*.parquet
+*.sqlite*
+*.db
+*.log
+.env
+.env.*
+.streamlit/secrets.toml
+secrets/
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store

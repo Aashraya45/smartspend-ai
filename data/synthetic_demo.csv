@@ -1,0 +1,327 @@
+date,description,amount,synthetic
+2025-01-01,Alder Court Rent,-1275.00,yes
+2025-01-02,Fictional Payroll,3800.00,yes
+2025-01-03,Ember Pizza,-37.89,yes
+2025-01-05,Northstar Games,-30.36,yes
+2025-01-09,Birch Electric,-83.20,yes
+2025-01-09,Juniper Foods,-67.09,yes
+2025-01-10,Fern Pharmacy,-17.66,yes
+2025-01-10,Harbor Fuel Station,-44.84,yes
+2025-01-11,Juniper Foods,-43.08,yes
+2025-01-11,Metro Finch Transit,-16.52,yes
+2025-01-11,Willow Noodle House,-40.58,yes
+2025-01-13,Summit Dental Clinic,-36.38,yes
+2025-01-14,Copper Home Goods,-56.81,yes
+2025-01-14,Ember Pizza,-26.67,yes
+2025-01-15,Silver Reel Cinema,-34.64,yes
+2025-01-16,Ember Pizza,-22.68,yes
+2025-01-16,Lantern Cafe,-29.83,yes
+2025-01-16,Quill Outfitters,-30.29,yes
+2025-01-17,Brookside Water,-78.17,yes
+2025-01-17,Juniper Foods,-69.82,yes
+2025-01-18,Juniper Foods,-71.15,yes
+2025-01-18,Paperleaf Books,-72.22,yes
+2025-01-19,Juniper Foods,-53.06,yes
+2025-01-22,Metro Finch Transit,-27.61,yes
+2025-01-24,Birch Electric,-53.22,yes
+2025-01-25,Lantern Cafe,-31.31,yes
+2025-01-27,Harbor Fuel Station,-35.46,yes
+2025-02-01,Alder Court Rent,-1275.00,yes
+2025-02-02,Fictional Payroll,3800.00,yes
+2025-02-04,Willow Noodle House,-18.55,yes
+2025-02-05,Juniper Foods,-79.78,yes
+2025-02-05,Oakwell Medical,-34.80,yes
+2025-02-09,Harbor Fuel Station,-14.35,yes
+2025-02-11,Birch Electric,-79.92,yes
+2025-02-13,Lantern Cafe,-33.47,yes
+2025-02-14,Bluebird Music,-12.39,yes
+2025-02-15,Harbor Fuel Station,-13.54,yes
+2025-02-16,Brookside Water,-55.43,yes
+2025-02-16,Copper Home Goods,-25.60,yes
+2025-02-16,Juniper Foods,-88.37,yes
+2025-02-18,Brookside Water,-65.60,yes
+2025-02-18,Copper Home Goods,-44.76,yes
+2025-02-20,Juniper Foods,-85.79,yes
+2025-02-20,Lantern Cafe,-29.65,yes
+2025-02-22,Bluebird Music,-12.48,yes
+2025-02-22,Ember Pizza,-31.64,yes
+2025-02-23,Juniper Foods,-43.42,yes
+2025-02-23,Oakline Parking,-31.42,yes
+2025-02-23,Paperleaf Books,-42.90,yes
+2025-02-24,Metro Finch Transit,-28.98,yes
+2025-02-24,Willow Noodle House,-25.32,yes
+2025-02-25,Lantern Cafe,-20.83,yes
+2025-02-25,Oakwell Medical,-41.77,yes
+2025-02-27,Clover Grocery Market,-39.16,yes
+2025-03-01,Alder Court Rent,-1275.00,yes
+2025-03-02,Fictional Payroll,3800.00,yes
+2025-03-03,Lantern Cafe,-33.66,yes
+2025-03-03,Metro Finch Transit,-9.47,yes
+2025-03-03,Willow Noodle House,-22.51,yes
+2025-03-04,Bluebird Music,-34.98,yes
+2025-03-04,Clover Grocery Market,-84.71,yes
+2025-03-06,BeaconNet Internet,-62.56,yes
+2025-03-07,Oakline Parking,-15.16,yes
+2025-03-09,Juniper Foods,-40.78,yes
+2025-03-09,Northstar Games,-36.50,yes
+2025-03-09,Oakwell Medical,-56.18,yes
+2025-03-17,Juniper Foods,-80.19,yes
+2025-03-17,Oakline Parking,-40.45,yes
+2025-03-18,BeaconNet Internet,-76.97,yes
+2025-03-18,Quill Outfitters,-44.18,yes
+2025-03-19,Juniper Foods,-96.91,yes
+2025-03-19,Willow Noodle House,-23.93,yes
+2025-03-20,Brookside Water,-83.19,yes
+2025-03-21,Copper Home Goods,-41.78,yes
+2025-03-21,Metro Finch Transit,-38.43,yes
+2025-03-23,Clover Grocery Market,-82.10,yes
+2025-03-23,Quill Outfitters,-81.73,yes
+2025-03-23,Summit Dental Clinic,-36.35,yes
+2025-03-25,Willow Noodle House,-14.86,yes
+2025-03-27,Ember Pizza,-26.72,yes
+2025-03-27,Willow Noodle House,-28.22,yes
+2025-04-01,Alder Court Rent,-1275.00,yes
+2025-04-02,Fictional Payroll,3800.00,yes
+2025-04-03,Bluebird Music,-20.85,yes
+2025-04-06,Birch Electric,-96.77,yes
+2025-04-06,Ember Pizza,-38.42,yes
+2025-04-06,Northstar Games,-20.69,yes
+2025-04-08,Clover Grocery Market,-53.31,yes
+2025-04-08,Harbor Fuel Station,-26.00,yes
+2025-04-08,Summit Dental Clinic,-58.61,yes
+2025-04-09,Metro Finch Transit,-31.90,yes
+2025-04-10,Clover Grocery Market,-39.34,yes
+2025-04-10,Ember Pizza,-16.80,yes
+2025-04-10,Oakline Parking,-13.32,yes
+2025-04-11,BeaconNet Internet,-52.26,yes
+2025-04-11,Brookside Water,-69.23,yes
+2025-04-12,Paperleaf Books,-63.60,yes
+2025-04-14,Quill Outfitters,-42.40,yes
+2025-04-16,Juniper Foods,-47.67,yes
+2025-04-16,Lantern Cafe,-21.56,yes
+2025-04-16,Willow Noodle House,-22.70,yes
+2025-04-20,Fern Pharmacy,-65.12,yes
+2025-04-20,Maple Produce Stand,-50.37,yes
+2025-04-22,Willow Noodle House,-18.69,yes
+2025-04-23,Copper Home Goods,-51.90,yes
+2025-04-24,Juniper Foods,-51.63,yes
+2025-04-24,Oakline Parking,-26.65,yes
+2025-04-25,Ember Pizza,-31.02,yes
+2025-05-01,Alder Court Rent,-1275.00,yes
+2025-05-02,Fictional Payroll,3800.00,yes
+2025-05-03,Maple Produce Stand,-99.44,yes
+2025-05-04,Clover Grocery Market,-54.80,yes
+2025-05-06,Oakline Parking,-12.57,yes
+2025-05-07,Lantern Cafe,-40.18,yes
+2025-05-11,Willow Noodle House,-43.60,yes
+2025-05-11,Willow Noodle House,-12.19,yes
+2025-05-12,Birch Electric,-65.33,yes
+2025-05-13,Maple Produce Stand,-100.13,yes
+2025-05-13,Silver Reel Cinema,-23.45,yes
+2025-05-14,Paperleaf Books,-94.02,yes
+2025-05-14,Summit Dental Clinic,-50.20,yes
+2025-05-15,BeaconNet Internet,-58.18,yes
+2025-05-15,Silver Reel Cinema,-39.74,yes
+2025-05-16,Ember Pizza,-20.18,yes
+2025-05-16,Harbor Fuel Station,-18.18,yes
+2025-05-17,BeaconNet Internet,-62.65,yes
+2025-05-19,Paperleaf Books,-26.29,yes
+2025-05-19,Willow Noodle House,-39.08,yes
+2025-05-20,Copper Home Goods,-75.25,yes
+2025-05-20,Metro Finch Transit,-34.76,yes
+2025-05-22,Metro Finch Transit,-39.50,yes
+2025-05-22,Willow Noodle House,-39.15,yes
+2025-05-23,Juniper Foods,-55.00,yes
+2025-05-23,Maple Produce Stand,-74.78,yes
+2025-05-26,Summit Dental Clinic,-44.90,yes
+2025-06-01,Alder Court Rent,-1275.00,yes
+2025-06-02,Fictional Payroll,3800.00,yes
+2025-06-03,Clover Grocery Market,-101.34,yes
+2025-06-06,Brookside Water,-96.75,yes
+2025-06-07,Ember Pizza,-19.81,yes
+2025-06-07,Oakline Parking,-39.28,yes
+2025-06-08,Clover Grocery Market,-80.79,yes
+2025-06-08,Ember Pizza,-11.06,yes
+2025-06-09,Maple Produce Stand,-62.16,yes
+2025-06-10,Ember Pizza,-30.79,yes
+2025-06-12,Oakwell Medical,-61.91,yes
+2025-06-13,Juniper Foods,-78.41,yes
+2025-06-14,Oakline Parking,-12.97,yes
+2025-06-15,Fern Pharmacy,-68.23,yes
+2025-06-15,Paperleaf Books,-47.81,yes
+2025-06-17,Lantern Cafe,-27.54,yes
+2025-06-18,Lantern Cafe,-26.03,yes
+2025-06-19,Paperleaf Books,-43.78,yes
+2025-06-22,Birch Electric,-93.51,yes
+2025-06-22,Brookside Water,-80.48,yes
+2025-06-22,Ember Pizza,-33.37,yes
+2025-06-22,Quill Outfitters,-29.97,yes
+2025-06-23,Silver Reel Cinema,-16.87,yes
+2025-06-24,Metro Finch Transit,-35.47,yes
+2025-06-27,Maple Produce Stand,-84.84,yes
+2025-06-27,Metro Finch Transit,-27.29,yes
+2025-06-27,Silver Reel Cinema,-27.25,yes
+2025-07-01,Alder Court Rent,-1275.00,yes
+2025-07-02,Fictional Payroll,3800.00,yes
+2025-07-03,Brookside Water,-70.37,yes
+2025-07-03,Paperleaf Books,-90.08,yes
+2025-07-05,Clover Grocery Market,-61.36,yes
+2025-07-05,Maple Produce Stand,-91.01,yes
+2025-07-06,Copper Home Goods,-95.73,yes
+2025-07-08,Silver Reel Cinema,-29.55,yes
+2025-07-10,Fern Pharmacy,-35.90,yes
+2025-07-10,Willow Noodle House,-38.99,yes
+2025-07-11,Metro Finch Transit,-44.75,yes
+2025-07-15,BeaconNet Internet,-100.76,yes
+2025-07-15,Birch Electric,-81.26,yes
+2025-07-15,Maple Produce Stand,-86.54,yes
+2025-07-15,Metro Finch Transit,-25.94,yes
+2025-07-16,Juniper Foods,-99.00,yes
+2025-07-19,Clover Grocery Market,-70.18,yes
+2025-07-19,Ember Pizza,-12.58,yes
+2025-07-23,Lantern Cafe,-42.89,yes
+2025-07-23,Oakline Parking,-34.73,yes
+2025-07-24,Fern Pharmacy,-45.17,yes
+2025-07-24,Lantern Cafe,-32.90,yes
+2025-07-24,Paperleaf Books,-45.72,yes
+2025-07-24,Willow Noodle House,-30.16,yes
+2025-07-25,Lantern Cafe,-32.87,yes
+2025-07-25,Metro Finch Transit,-29.84,yes
+2025-07-25,Northstar Games,-21.31,yes
+2025-08-01,Alder Court Rent,-1275.00,yes
+2025-08-02,Fictional Payroll,3800.00,yes
+2025-08-03,Brookside Water,-73.80,yes
+2025-08-05,Metro Finch Transit,-43.29,yes
+2025-08-06,Clover Grocery Market,-91.79,yes
+2025-08-06,Juniper Foods,-91.96,yes
+2025-08-06,Lantern Cafe,-28.50,yes
+2025-08-07,Lantern Cafe,-38.58,yes
+2025-08-08,Harbor Fuel Station,-40.86,yes
+2025-08-08,Willow Noodle House,-18.22,yes
+2025-08-11,Juniper Foods,-102.04,yes
+2025-08-11,Paperleaf Books,-21.21,yes
+2025-08-12,Paperleaf Books,-81.52,yes
+2025-08-13,Willow Noodle House,-43.40,yes
+2025-08-14,Oakline Parking,-47.12,yes
+2025-08-14,Oakwell Medical,-40.34,yes
+2025-08-15,Brookside Water,-82.95,yes
+2025-08-15,Maple Produce Stand,-76.37,yes
+2025-08-15,Northstar Games,-18.93,yes
+2025-08-16,Birch Electric,-104.67,yes
+2025-08-16,Ember Pizza,-28.48,yes
+2025-08-16,Fern Pharmacy,-14.99,yes
+2025-08-20,Ember Pizza,-45.69,yes
+2025-08-21,Bluebird Music,-14.18,yes
+2025-08-26,Maple Produce Stand,-96.86,yes
+2025-08-27,Harbor Fuel Station,-9.38,yes
+2025-08-27,Quill Outfitters,-69.94,yes
+2025-09-01,Alder Court Rent,-1275.00,yes
+2025-09-02,Fictional Payroll,3800.00,yes
+2025-09-03,Oakline Parking,-35.94,yes
+2025-09-04,Maple Produce Stand,-84.51,yes
+2025-09-05,Willow Noodle House,-44.26,yes
+2025-09-07,Birch Electric,-112.70,yes
+2025-09-08,Lantern Cafe,-30.68,yes
+2025-09-10,Ember Pizza,-17.62,yes
+2025-09-10,Harbor Fuel Station,-26.84,yes
+2025-09-13,Juniper Foods,-41.99,yes
+2025-09-14,Copper Home Goods,-36.66,yes
+2025-09-14,Harbor Fuel Station,-31.96,yes
+2025-09-14,Maple Produce Stand,-106.67,yes
+2025-09-17,Northstar Games,-29.59,yes
+2025-09-20,Harbor Fuel Station,-39.45,yes
+2025-09-20,Juniper Foods,-102.46,yes
+2025-09-21,Fern Pharmacy,-38.84,yes
+2025-09-21,Summit Dental Clinic,-56.37,yes
+2025-09-22,Willow Noodle House,-35.82,yes
+2025-09-23,Birch Electric,-62.10,yes
+2025-09-23,Copper Home Goods,-485.70,yes
+2025-09-24,Lantern Cafe,-39.89,yes
+2025-09-24,Paperleaf Books,-88.12,yes
+2025-09-25,Brookside Water,-76.01,yes
+2025-09-26,Bluebird Music,-28.06,yes
+2025-09-26,Clover Grocery Market,-91.88,yes
+2025-09-26,Ember Pizza,-45.25,yes
+2025-09-26,Quill Outfitters,-22.42,yes
+2025-10-01,Alder Court Rent,-1275.00,yes
+2025-10-02,Fictional Payroll,3800.00,yes
+2025-10-03,Clover Grocery Market,-73.66,yes
+2025-10-03,Silver Reel Cinema,-25.70,yes
+2025-10-04,BeaconNet Internet,-75.07,yes
+2025-10-05,Bluebird Music,-44.34,yes
+2025-10-05,Paperleaf Books,-95.07,yes
+2025-10-06,Maple Produce Stand,-97.05,yes
+2025-10-06,Maple Produce Stand,-66.55,yes
+2025-10-06,Oakwell Medical,-57.29,yes
+2025-10-07,Harbor Fuel Station,-26.79,yes
+2025-10-09,Lantern Cafe,-40.83,yes
+2025-10-12,Metro Finch Transit,-26.79,yes
+2025-10-13,BeaconNet Internet,-91.65,yes
+2025-10-14,Juniper Foods,-81.69,yes
+2025-10-14,Juniper Foods,-64.42,yes
+2025-10-17,Metro Finch Transit,-29.37,yes
+2025-10-17,Summit Dental Clinic,-15.50,yes
+2025-10-18,Oakline Parking,-33.13,yes
+2025-10-18,Willow Noodle House,-50.94,yes
+2025-10-19,Ember Pizza,-48.29,yes
+2025-10-20,Ember Pizza,-21.68,yes
+2025-10-21,Copper Home Goods,-84.97,yes
+2025-10-22,Brookside Water,-77.55,yes
+2025-10-22,Ember Pizza,-46.25,yes
+2025-10-26,Lantern Cafe,-13.30,yes
+2025-10-26,Paperleaf Books,-56.06,yes
+2025-11-01,Alder Court Rent,-1275.00,yes
+2025-11-02,Fictional Payroll,3800.00,yes
+2025-11-03,BeaconNet Internet,-78.35,yes
+2025-11-05,Fern Pharmacy,-58.51,yes
+2025-11-06,Clover Grocery Market,-78.65,yes
+2025-11-06,Copper Home Goods,-103.11,yes
+2025-11-06,Northstar Games,-44.45,yes
+2025-11-07,Clover Grocery Market,-64.70,yes
+2025-11-07,Lantern Cafe,-29.92,yes
+2025-11-09,Lantern Cafe,-47.61,yes
+2025-11-11,Harbor Fuel Station,-16.18,yes
+2025-11-11,Harbor Fuel Station,-15.23,yes
+2025-11-11,Quill Outfitters,-39.50,yes
+2025-11-12,Ember Pizza,-32.91,yes
+2025-11-14,Clover Grocery Market,-95.97,yes
+2025-11-14,Willow Noodle House,-50.78,yes
+2025-11-15,BeaconNet Internet,-64.16,yes
+2025-11-15,Summit Dental Clinic,-49.29,yes
+2025-11-16,Brookside Water,-57.83,yes
+2025-11-16,Clover Grocery Market,-54.93,yes
+2025-11-16,Summit Dental Clinic,-329.00,yes
+2025-11-18,Ember Pizza,-29.58,yes
+2025-11-18,Oakline Parking,-21.25,yes
+2025-11-19,Copper Home Goods,-79.39,yes
+2025-11-21,Oakline Parking,-23.49,yes
+2025-11-21,Silver Reel Cinema,-46.17,yes
+2025-11-23,Lantern Cafe,-17.27,yes
+2025-11-26,Clover Grocery Market,-45.57,yes
+2025-12-01,Alder Court Rent,-1275.00,yes
+2025-12-02,Fictional Payroll,3800.00,yes
+2025-12-04,BeaconNet Internet,-75.64,yes
+2025-12-04,Lantern Cafe,-53.20,yes
+2025-12-04,Silver Reel Cinema,-30.85,yes
+2025-12-05,Quill Outfitters,-44.25,yes
+2025-12-06,Maple Produce Stand,-72.51,yes
+2025-12-07,Maple Produce Stand,-80.39,yes
+2025-12-08,Paperleaf Books,-86.68,yes
+2025-12-11,Clover Grocery Market,-100.53,yes
+2025-12-11,Juniper Foods,-97.91,yes
+2025-12-11,Lantern Cafe,-24.08,yes
+2025-12-12,Copper Home Goods,-97.09,yes
+2025-12-13,Ember Pizza,-27.63,yes
+2025-12-14,BeaconNet Internet,-107.28,yes
+2025-12-15,Oakline Parking,-39.53,yes
+2025-12-16,Harbor Fuel Station,-33.60,yes
+2025-12-19,Lantern Cafe,-42.76,yes
+2025-12-19,Northstar Games,-18.30,yes
+2025-12-19,Willow Noodle House,-25.61,yes
+2025-12-20,Oakwell Medical,-20.87,yes
+2025-12-21,Brookside Water,-59.56,yes
+2025-12-22,Harbor Fuel Station,-45.80,yes
+2025-12-24,Ember Pizza,-25.44,yes
+2025-12-25,Juniper Foods,-65.53,yes
+2025-12-26,Metro Finch Transit,-21.34,yes
+2025-12-27,Oakwell Medical,-68.87,yes

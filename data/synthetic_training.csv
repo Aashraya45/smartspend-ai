@@ -1,0 +1,49 @@
+description,category,synthetic
+Clover Grocery Market,Groceries,yes
+Juniper Foods,Groceries,yes
+Maple Produce Stand,Groceries,yes
+Clover Supermarket,Groceries,yes
+Juniper Grocery Delivery,Groceries,yes
+Maple Fresh Foods,Groceries,yes
+Lantern Cafe,Dining,yes
+Ember Pizza,Dining,yes
+Willow Noodle House,Dining,yes
+Lantern Coffee Bar,Dining,yes
+Ember Restaurant,Dining,yes
+Willow Bakery,Dining,yes
+Harbor Fuel Station,Transport,yes
+Metro Finch Transit,Transport,yes
+Oakline Parking,Transport,yes
+Harbor Gas,Transport,yes
+Metro Finch Rail Pass,Transport,yes
+Oakline Taxi,Transport,yes
+Alder Court Rent,Housing,yes
+Cypress Flats Rent,Housing,yes
+Alder Court Lease,Housing,yes
+Cypress Apartments Rent,Housing,yes
+Alder Property Management,Housing,yes
+Cypress Housing Payment,Housing,yes
+Birch Electric,Utilities,yes
+Brookside Water,Utilities,yes
+BeaconNet Internet,Utilities,yes
+Birch Power Bill,Utilities,yes
+Brookside Sewer,Utilities,yes
+BeaconNet Broadband,Utilities,yes
+Quill Outfitters,Shopping,yes
+Copper Home Goods,Shopping,yes
+Paperleaf Books,Shopping,yes
+Quill Apparel Store,Shopping,yes
+Copper Furniture,Shopping,yes
+Paperleaf Stationery,Shopping,yes
+Silver Reel Cinema,Entertainment,yes
+Northstar Games,Entertainment,yes
+Bluebird Music,Entertainment,yes
+Silver Reel Movie Tickets,Entertainment,yes
+Northstar Arcade,Entertainment,yes
+Bluebird Concert Hall,Entertainment,yes
+Fern Pharmacy,Health,yes
+Summit Dental Clinic,Health,yes
+Oakwell Medical,Health,yes
+Fern Prescription,Health,yes
+Summit Dentist,Health,yes
+Oakwell Urgent Care,Health,yes
